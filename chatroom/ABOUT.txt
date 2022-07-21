@@ -1,0 +1,3 @@
+I learned how to code this TCP/IP chatroom in C from resources I learned in the classroom as well as reading a textbook chapter 
+about multiplexing in: Hands-On Network Programming with C.
+
